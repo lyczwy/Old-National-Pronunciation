@@ -8,7 +8,8 @@
 
 ==聲母==
 
-
+ㄅ	ㄆ	ㄇ	ㄈ	ㄪ	ㄉ	ㄊ	ㄋ	ㄌ	ㄍ	ㄎ	ㄫ	ㄏ	ㄐ	ㄑ	ㄬ	ㄒ	ㄓ	ㄔ	ㄕ	ㄖ	ㄗ	ㄘ	ㄙ	ㄧ	ㄨ	ㄩ
+b	p	m	f	v	d	t	n	l	g	k	ng	h	j	q	nj	x	zh	ch	sh	r	z	c	s	y	w	yu
 
 本方案用來拼寫正音，所以變通讀音和叶韻改讀一概不予考慮。
 聲母ㄬ採用iac轉寫的nj，而不用國語羅馬字的gn。
@@ -16,8 +17,8 @@
 
 ==韻母==
 
-
-
+ㄧ	ㄨ	ㄩ	ㄚ	ㄛ	ㄜ	ㄝ	ㄞ	ㄟ	ㄠ	ㄡ	ㄢ	ㄣ	ㄧㄣ	ㄨㄣ	ㄩㄣ	ㄤ	ㄥ	ㄧㄥ	ㄨㄥ	ㄦ
+i	u	yu	a	o	eo	e	ai	ei	au	eu	an	en	in	un	yun	ang	eng	ing	ung	er
 
 韻母的拼寫，參照趙元任《國音新詩韻》的發音原理設計。
 音節zi、ci、si對應的尖音作zyi、cyi、syi，是網上的流行寫法，其餘均做i即可。
@@ -26,13 +27,16 @@
 韻母中的一切ㄩ均作yu，不作y或ü。
 兒化音直接在音節後加-r，同漢語拼音規則。
 
-
-
+ㄧㄚ	ㄧㄛ	ㄧㄝ	ㄧㄞ	ㄧㄠ	ㄧㄡ	ㄧㄢ	ㄧㄤ	ㄨㄚ	ㄨㄛ	ㄨㄞ	ㄨㄟ	ㄨㄢ	ㄨㄤ	ㄩㄛ	ㄩㄝ	ㄩㄢ	ㄩㄥ
+ia	io	ie	iai	iau	ieu	ian	iang	ua	uo	uai	uei	uan	uang	yuo	yue	yuan	yung
 
 注意其中的iou、uei，不要寫成iu、ui，是為了彰顯其發音為/iəu/、/uəi/，在趙的留聲中韻腹很明顯。
 但ㄩㄥ作yung，不作iung，因為是撮口呼。
 
 ==聲調==
+
+陰平	陽平	上聲	去聲	入聲
+1	2	3	4	5
 
 凡聲調一律用數字，趙元任老國音讀物均稱“國音五聲”。
 趙元任讀入聲不如江北之急。

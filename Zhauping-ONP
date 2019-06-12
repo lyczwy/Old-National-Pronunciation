@@ -5,6 +5,7 @@
 # 注意拼寫：in(ㄧㄣ)、un(ㄨㄣ)、yuo(ㄩㄛ)、yue(ㄩㄝ)、yuan(ㄩㄢ)、yung(ㄩㄥ)、-5(入聲)。
 
 # 以下為《校改國音字典》部分
+# 沒有編碼的漢字無法輸入，暫時不出現。
 一	yi5
 丁	ding1
 丁	zheng1
@@ -606,7 +607,6 @@
 傂	si1
 𠍧	guang5
 傘	san3
-⿰亻閃	ba5
 傢	jia1
 催	cuei1
 傭	yung2
@@ -750,7 +750,6 @@
 儑	ngo5
 㒚	yin4
 㒚	wen3
-⿰人⿳尚上曰	chang2
 償	chang2
 償	chang4
 儡	luei3
